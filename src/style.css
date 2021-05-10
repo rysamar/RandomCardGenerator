@@ -1,1 +1,28 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+
+body {
+  background-color: green;
+}
+
+.card {
+  background-color: rgb(196, 196, 196);
+  border-radius: 10px;
+  text-align: center;
+}
+
+.cardIcon {
+  font-size: 70px;
+  position: relative;
+}
+
+.cardText {
+  font-size: 100px;
+}
+
+.cardRed {
+  color: red;
+}
+
+.cardBlack {
+  color: black;
+}
